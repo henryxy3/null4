@@ -1,0 +1,1 @@
+git clone https://github.com/openwall/john -b bleeding-jumbo john-jumbo
